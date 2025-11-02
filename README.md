@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Ritvik Mohindru
-rmohindru@ucsd.edu
+Ritvik Mohindru and Sai Sri Lasya Yadlapati
